@@ -19,4 +19,4 @@ The Opportunity Scout is an autonomous agent I built on Relevance AI. It runs on
 - It doesn't spend money or pay for access.
 
 ## Contact
-[Your contact or LinkedIn link](https://linkedin.com/in/ramon-cortez-a227a2112)
+[Ramon Cortez on LinkedIn](https://linkedin.com/in/ramon-cortez-a227a2112)
